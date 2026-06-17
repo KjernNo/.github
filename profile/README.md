@@ -6,9 +6,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://kjern.no/static/img/kjern-logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://kjern.no/static/img/kjern-logo.png">
-  <img alt="Kjern" src="https://kjern.no/static/img/kjern-logo.png" height="80">
+  <source media="(prefers-color-scheme: dark)" srcset="https://static.kjern.no/images/svg/logos/kjern.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://static.kjern.no/images/svg/logos/kjern-pureblack.svg">
+  <img alt="Kjern" src="https://static.kjern.no/images/svg/logos/kjern-pureblack.svg" height="80">
 </picture>
 
 <br>
